@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🍕 Pizza Sales Analysis Dashboard - Power BI
 
 
@@ -62,3 +63,6 @@ https://drive.google.com/file/d/1Ux79c9SX2OS\_knOPyGP\_yV5SpmH0GvNn/view?usp=dri
 
 Archita
 
+=======
+# Pizza-Sales-Analysis-Dashboard---Power-BI
+Power BI dashboard analyzing pizza sales data with insights on revenue, order trends, and product performance.
